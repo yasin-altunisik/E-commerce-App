@@ -1,4 +1,4 @@
-# Portfolio Website
+# E-commerce App
 ### Developed with React.JS
 
-![Alt Text](https://github.com/yasin-altunisik/portfolio/blob/master/portfolio%20website.gif)
+![Alt Text](https://github.com/yasin-altunisik/E-commerce-App/blob/master/e-commerce%20app.gif)
